@@ -1,11 +1,12 @@
-﻿=============================================CODESCAPE PROCESS MONITOR=================================================================
+<h1>Windows Desktop Process Monitoring Tool</h1>
+
 DESCRIPTION:
 This Service Use Powershell cmdlet to get all the process currently running in a system and log the same on local as well as remote PC
-----------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 
-			How to configure Path and interval
-______________________________________________________________ 
-Go to "C:\Program Files\CodeScape\CodeScape Process Monitor" 
+<h2>How to configure Path and interval</h2>
+<hr>
+Go to "Process Monitor" directory
 						 
 OPEN Process Monitor.exe.config and 
 			Set the following parameters under app settings
@@ -20,21 +21,19 @@ OPEN Process Monitor.exe.config and
 			value="C:\Program Files\CodeScape"
 						 
 Note: [Do not change Keys name]
-_____________________________________________________________
+<hr>
 
-
-			How to Install
-_____________________________________________________________
+<h2>How to Install</h2>
+<hr>
 Double Click setup file CSPM.msi and follow the steps 
 Service will start automatically once installed
-_____________________________________________________________
+<hr>
 
 
-			HOW IT WORKS
-______________________________________________________________________________
-
+<h2>HOW IT WORKS</h2>
+<hr>
 This will execute Get-Process command of powershell after a specific 
 interval to get the list of process executing by users of that PC
 
 The output is stored in CSV format and will be stored on local PC and Remote PC
-_______________________________________________________________________________
+<hr>
