@@ -1,0 +1,207 @@
+﻿Installing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Committing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Installing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Committing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Installing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Committing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Installing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Committing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Installing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Committing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Installing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Committing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Installing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Committing assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Uninstalling assembly 'C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\ccpl\Desktop\tasklistWinService\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source LogFile.
+Warning: The source LogFile is not registered on the local machine.
+Service LogFile is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.exe
+Removing EventLog source .
+Warning: The source  is not registered on the local machine.
+Service  is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The filename, directory name, or volume label syntax is incorrect
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Removing EventLog source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.
+Installing assembly 'C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.exe
+Installing service LogFile...
+Service LogFile has been successfully installed.
+Creating EventLog source LogFile in log Application...
+Installing service ...
+Creating EventLog source  in log Application...
+Rolling back assembly 'C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.InstallLog
+   assemblypath = C:\Users\maryada.sharma\Desktop\tasklistWinService\tasklistWinService - Copy\tasklistWinService\bin\Debug\tasklistWinService.exe
+Restoring event log to previous state for source .
+Restoring event log to previous state for source LogFile.
+Service LogFile is being removed from the system...
+Service LogFile was successfully removed from the system.

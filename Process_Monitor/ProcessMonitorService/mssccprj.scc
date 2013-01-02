@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[tasklistWinService.csproj]
+SCC_Aux_Path = "\\2b\VSSafe\VSS_Scape"
+SCC_Project_Name = "$/Codescape_Internal_Project/Process_Monitor/tasklistWinService", FWMAAAAA

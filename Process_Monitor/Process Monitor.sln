@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CSPM", "LogFileSetup\LogFileSetup.vdproj", "{422174BF-2803-4992-8712-961C71654EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessMonitor", "ProcessMonitorService\ProcessMonitor.csproj", "{6AAC2BA5-97A6-4000-BBC7-E316FC32864E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422174BF-2803-4992-8712-961C71654EED}.Debug|x86.ActiveCfg = Debug
+		{422174BF-2803-4992-8712-961C71654EED}.Debug|x86.Build.0 = Debug
+		{422174BF-2803-4992-8712-961C71654EED}.Release|x86.ActiveCfg = Release
+		{6AAC2BA5-97A6-4000-BBC7-E316FC32864E}.Debug|x86.ActiveCfg = Debug|x86
+		{6AAC2BA5-97A6-4000-BBC7-E316FC32864E}.Debug|x86.Build.0 = Debug|x86
+		{6AAC2BA5-97A6-4000-BBC7-E316FC32864E}.Release|x86.ActiveCfg = Release|x86
+		{6AAC2BA5-97A6-4000-BBC7-E316FC32864E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
